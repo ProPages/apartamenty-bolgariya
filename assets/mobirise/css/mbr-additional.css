@@ -1774,32 +1774,6 @@ body {
 .cid-rkCvhmsVkq .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rkDvWlHCmH {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/6ebc58-1d5e95405de540e3b7316dca40599f11-mv2-d-1242-1202-s-2.webp");
-}
-.cid-rkDvWlHCmH h3 {
-  text-align: center;
-}
-.cid-rkDvWlHCmH .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-rkDvWlHCmH .mbr-content-text {
-  color: #767676;
-}
-.cid-rkDvWlHCmH .card {
-  word-wrap: break-word;
-}
-.cid-rkDvWlHCmH .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-rkDvWlHCmH H3 {
-  color: #232323;
-  text-align: center;
-}
 .cid-rkDuwxVL7d {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1862,6 +1836,14 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rlE0UNsph2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rlE0UNsph2 P {
+  color: #767676;
+}
 .cid-rkCvajvlph {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1917,9 +1899,57 @@ body {
     font-size: 4.25rem;
   }
 }
+.cid-rlDZHL4Q3R {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-rlDZHL4Q3R .btn-social {
+  border: none !important;
+}
+.cid-rlDZHL4Q3R .btn-social {
+  border-radius: 0 !important;
+}
+.cid-rlDZHL4Q3R [class^="socicon-"]:before,
+.cid-rlDZHL4Q3R [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-rlDZHL4Q3R .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-rkDv3GMVzA {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rkDv3GMVzA .title {
